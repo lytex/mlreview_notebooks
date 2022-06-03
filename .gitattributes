@@ -1,2 +1,2 @@
-notebooks/**.ipynb linguist-vendored
-notebooks/**.html linguist-vendored
+jupyter-notebooks/notebooks/**.ipynb linguist-vendored
+jupyter-notebooks/html/**.html linguist-vendored
